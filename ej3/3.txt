@@ -1,0 +1,3 @@
+Estamos resolviendo una ecuación de onda amortiguada con un término adicional de amortiguamiento y un término fuente.
+También la hemos resuelto utilizando el método de diferencias finitas.
+La gráfica de la solución de la ecuación de onda amortiguada muestra cómo evoluciona la onda en el espacio y el tiempo, teniendo en cuenta el efecto del amortiguamiento. En el código, la solución se calcula mediante el método de diferencias finitas y se representa en una gráfica tridimensional donde el eje x representa la posición espacial, el eje y representa el tiempo, y el eje z representa la amplitud de la onda. La gráfica muestra cómo la onda se propaga y se amortigua a medida que avanza el tiempo.

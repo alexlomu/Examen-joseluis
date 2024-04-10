@@ -1,0 +1,3 @@
+Esta ecuación es una forma específica de la ecuación de onda homogénea.
+La hemos resuelto con el método de diferencias finitas.
+Concuerda con la gráfica porque, Esta ecuación describe cómo una onda en una dimensión x y en el tiempo t se propaga sin fuentes externas o amortiguamiento. La velocidad de propagación de la onda está determinada por el parámetro v.
